@@ -1,0 +1,47 @@
+.cabecera {
+    background-image: url("../img/paisajecabecera.jpeg");
+    height: 16em;
+    margin-bottom: 30px;
+    margin-top: -60px;
+}
+
+.titulo {
+    margin-left: 30px;
+    padding-top: 30px;
+    font-size: 60px;
+    text-shadow: -1px 2px 0 #0a0e27;
+}
+
+.subtitulo {
+    margin-left: 30px;
+    font-size: 20px;
+} 
+
+
+#contenedor{
+	width: 700px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+.img {
+    display: inline-block;
+    width: 50%;
+}
+
+#texto{
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 100px;
+  }
+
+
+.pie {
+    background-color: cornflowerblue;
+    height: 3em;
+    margin-top: 30px;
+    text-align: center;
+    padding-top: 3em;
+    text-decoration: none;
+}
